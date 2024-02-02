@@ -1,0 +1,3 @@
+hii, I an samyak bansod 
+welcome to my Git hub Repositery
+This is the test file o check git and github configuration
